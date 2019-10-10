@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    ¡Estás conectado!
+                    ¡Estás conectado! en la nube
                 </div>
             </div>
         </div>
